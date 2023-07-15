@@ -1,0 +1,26 @@
+
+#video-canvas {
+  position: relative;
+  background-color: #000;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-left: 5px;
+  margin-top: 0;
+}
+
+#video-canvas.expanded {
+  height: 400px;
+}
+
+#video-canvas1 {
+  position: relative;
+  background-color: #000;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-left: 20px;
+  margin-top: 0;
+}
+
+#video-canvas1.expanded {
+  height: 400px;
+}
